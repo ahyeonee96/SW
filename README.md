@@ -1,3 +1,3 @@
-Hello this is my github to keep my programming log.
+다른 repository에 해당하지 않는 기록,
 
-I use C, C++, PYTHON.
+기타 외의 활동들을 기록합니다.
